@@ -34,7 +34,7 @@ Teaching experience
 Work experience
 ======
 * September 2021 - now: Research Assistant
-  * Supervisor: Prof. Alaa Alameldeen
+  * Supervisor: Professor Alaa Alameldeen
   * Computer Systems Group, School of Computing Science, Simon Fraser University
 
 Skills
