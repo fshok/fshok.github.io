@@ -9,55 +9,43 @@ redirect_from:
 
 {% include base_path %}
 
+Research Interests
+======
+Computer Architecture
+Memory Systems
+Processing In Memory
+
 Education
 ======
 * Ph.D in Computing Science, Simon Fraser University, BC, Canada, 2025 (expected)
+  * Supervisor: Prof. Alaa Alameldeen
 * M.Sc. in Computer Engineering, Amirkabir University of Technology, Tehran, Iran, 2021
-* B.Sc. in Computer Engineering, Sharif University of Technology, Tehran, Iran, 2019
+  * Supervisor: Prof. Hamed Farbeh
+* B.Sc. in Computer Engineering, Sharif University of Technology, Tehran, Iran, 2019 
 
 Teaching experience
 ======
 * Summer 2022: Teaching Assistant
   * CMPT 295 - Introduction to Computer Systems
   * Instructor: Professor Arrvindh Shriraman
-  * Simon Fraser University
+  * School of Computing Science, Simon Fraser University
 
 Work experience
 ======
 * September 2021 - now: Research Assistant
-  * Computer Systems Group, School of Computing Science
   * Supervisor: Prof. Alaa Alameldeen
-  * Simon Fraser University
+  * Computer Systems Group, School of Computing Science, Simon Fraser University
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: C, C++, Python, Matlab, Golang
+* Hardware Description Languages: VHDL, Verilog
+* Hardware Simulation: Gem5
+* Language: Persian (Native), English (Full Professional Proficiency)
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-  
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Meisam Abdollahi, Mohammad Baharloo, Fateme Shokouhinia, and Masoumeh Ebrahimi, 2021, "RAP-NoC: Reliability
+Assessment of Photonic Network-on-Chips, A simulator". In Proceedings of the Eight Annual ACM International
+Conference on Nanoscale Computing and Communication (NANOCOM '21). Association for Computing Machinery, New
+York, NY, USA, Article 16, 1–7. DOI:https://doi.org/10.1145/3477206.3477455
