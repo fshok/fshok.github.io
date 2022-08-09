@@ -12,9 +12,9 @@ The complete pdf version of my CV can be found [here](https://fshok.github.io/fi
 
 Research Interests
 ======
-Computer Architecture
-Memory Systems
-Processing In Memory
+* Computer Architecture
+* Memory Systems
+* Processing In Memory
 
 Education
 ======
