@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+The complete pdf version of my CV can be found [here](https://fshok.github.io/files/CV.pdf)
 
 Research Interests
 ======
