@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Fateme Shokouhinia"
 title_separator          : "-"
-name                     : &name "Fateme Shokouhinia"
+name                     : &name "Fateme's Personal Webpage"
 description              : &description "personal description"
 url                      : https://fshok.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,38 +83,13 @@ author:
   name             : "Fateme Shokouhinia"
   avatar           : "profile.png"
   bio              : "PhD student - SFU"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  location         : "Burnaby-BC"
+  employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=i2SiVxUAAAAJ&hl=en"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "academicpages"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  email            : "fateme_shokouhinia@sfu.ca"
+  researchgate     : "https://www.researchgate.net/profile/Fateme_Shokouhinia"
+  github           : "fshok"
+  linkedin         : "https://ir.linkedin.com/in/fateme-shokouhinia-6717419b"
 
 
 # Reading Files
