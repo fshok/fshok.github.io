@@ -11,22 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computing Science, Simon Fraser University, BC, Canada, 2025 (expected)
+* M.Sc. in Computer Engineering, Amirkabir University of Technology, Tehran, Iran, 2021
+* B.Sc. in Computer Engineering, Sharif University of Technology, Tehran, Iran, 2019
+
+Teaching experience
+======
+* Summer 2022: Teaching Assistant
+  * CMPT 295 - Introduction to Computer Systems
+  * Instructor: Professor Arrvindh Shriraman
+  * Simon Fraser University
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2021 - now: Research Assistant
+  * Computer Systems Group, School of Computing Science
+  * Supervisor: Prof. Alaa Alameldeen
+  * Simon Fraser University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
 * Skill 1
