@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fateme Shokouhinia"
+title                    : "Home"
 title_separator          : "-"
-name                     : &name "Fateme's Personal Webpage"
-description              : &description "personal description"
+name                     : &name "Fateme Shokouhinia"
+description              : &description "Fateme's Personal Webpage"
 url                      : https://fshok.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fshok/fshok.github.io"
