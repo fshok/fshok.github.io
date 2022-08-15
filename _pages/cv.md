@@ -18,7 +18,7 @@ Research Interests
 
 Education
 ======
-* Ph.D in Computing Science, Simon Fraser University, BC, Canada, 2025 (expected)
+* Ph.D. in Computing Science, Simon Fraser University, BC, Canada, 2025 (expected)
   * Supervisor: Prof. Alaa Alameldeen
 * M.Sc. in Computer Engineering, Amirkabir University of Technology, Tehran, Iran, 2021
   * Supervisor: Prof. Hamed Farbeh
