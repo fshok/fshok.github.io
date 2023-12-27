@@ -15,6 +15,7 @@ Research Interests
 * Computer Architecture
 * Memory Systems
 * Processing In Memory
+* Reliability and Performance Enhancement in PIM
 
 Education
 ======
@@ -24,24 +25,21 @@ Education
   * Supervisor: Prof. Hamed Farbeh
 * B.Sc. in Computer Engineering, Sharif University of Technology, Tehran, Iran, 2019 
 
-Teaching experience
+Experiences
 ======
-* Summer 2022: Teaching Assistant
-  * CMPT 295 - Introduction to Computer Systems
-  * Instructor: Professor Arrvindh Shriraman
-  * School of Computing Science, Simon Fraser University
-
-Work experience
-======
-* September 2021 - Current: Research Assistant
+* Research Assistant
   * Supervisor: Professor Alaa Alameldeen
   * Computer Systems Group, School of Computing Science, Simon Fraser University
+* Teaching Assistant
+  * CMPT 295 - Introduction to Computer Systems, School of Computing Science, Simon Fraser University
+  * CMPT 305 - Computer Simulation and Modelling, School of Computing Science, Simon Fraser University
+  * ENSC 450 - VLSI Systems Design, School of Engineering Science, Simon Fraser University
 
 Skills
 ======
-* Programming Languages: C, C++, Python, Matlab, Golang
+* Programming Languages: C, C++, Python
 * Hardware Description Languages: VHDL, Verilog
-* Hardware Simulation: Gem5
+* Familiar with Simulation tools: Gem5, Ramulator-PIM, ZSim, DAMOV
 * Language: Persian (Native), English (Full Professional Proficiency)
 
 Publications
