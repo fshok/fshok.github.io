@@ -9,4 +9,4 @@ redirect_from:
   - /home
 ---
 
-I'm Fateme, a Ph.D. student in Computer Architecture at Simon Fraser University in Burnaby, BC, Canada. I am currently working as a research assistant under supervision of [Prof. Alaa Alameldeen](https://www2.cs.sfu.ca/~alaa/alaa_home.shtml).
+I'm Fateme, a Graduate student in Computer Architecture at Simon Fraser University in Burnaby, BC, Canada. I am currently working as a research assistant under the supervision of [Prof. Alaa Alameldeen](https://www2.cs.sfu.ca/~alaa/alaa_home.shtml).
