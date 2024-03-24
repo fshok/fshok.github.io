@@ -39,7 +39,7 @@ Skills
 ======
 * Programming Languages: C, C++, Python
 * Hardware Description Languages: VHDL, Verilog
-* Familiar with Simulation tools: Gem5, Ramulator-PIM, ZSim, DAMOV
+* System Simulation tools: Gem5, Ramulator-PIM, ZSim, DAMOV
 * Language: Persian (Native), English (Full Professional Proficiency)
 
 Publications
