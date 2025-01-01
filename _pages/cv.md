@@ -19,7 +19,7 @@ Research Interests
 
 Education
 ======
-* M.Sc. in Computing Science, Simon Fraser University, BC, Canada, 2024 (expected)
+* M.Sc. in Computing Science, Simon Fraser University, BC, Canada, 2024
   * Supervisor: Prof. Alaa Alameldeen
 * M.Sc. in Computer Engineering, Amirkabir University of Technology, Tehran, Iran, 2021
   * Supervisor: Prof. Hamed Farbeh
@@ -27,13 +27,14 @@ Education
 
 Experiences
 ======
-* Research Assistant
-  * Supervisor: Professor Alaa Alameldeen
-  * Computer Systems Group, School of Computing Science, Simon Fraser University
 * Teaching Assistant
+  * CMPT 225 - Data Structures/Programming, School of Computing Science, Simon Fraser University
   * CMPT 295 - Introduction to Computer Systems, School of Computing Science, Simon Fraser University
   * CMPT 305 - Computer Simulation and Modelling, School of Computing Science, Simon Fraser University
   * ENSC 450 - VLSI Systems Design, School of Engineering Science, Simon Fraser University
+* Research Assistant
+  * Supervisor: Professor Alaa Alameldeen
+  * Computer Systems Group, School of Computing Science, Simon Fraser University
 
 Skills
 ======
